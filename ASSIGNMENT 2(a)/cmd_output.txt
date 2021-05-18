@@ -1,0 +1,29 @@
+Enter the IP ADDRESS : 10.3.2.5
+
+Enter the number of subnets : 17
+
+runfile('D:/computer networks/ASSIGNMENT 2(a)/subnet_musk.py', wdir='D:/computer networks/ASSIGNMENT 2(a)')
+
+Enter the IP ADDRESS : 130.43.65.8
+
+Enter the number of subnets : 9
+
+runfile('D:/computer networks/ASSIGNMENT 2(a)/subnet_musk.py', wdir='D:/computer networks/ASSIGNMENT 2(a)')
+
+Enter the IP ADDRESS : 200.62.56.3
+
+Enter the number of subnets : 33
+
+runfile('D:/computer networks/ASSIGNMENT 2(a)/subnet_musk.py', wdir='D:/computer networks/ASSIGNMENT 2(a)')
+
+Enter the IP ADDRESS : 225.62.56.2
+
+Enter the number of subnets : 12
+Subnet Mask and Subnetworking are not possible in Class D and Class E network address
+
+runfile('D:/computer networks/ASSIGNMENT 2(a)/subnet_musk.py', wdir='D:/computer networks/ASSIGNMENT 2(a)')
+
+Enter the IP ADDRESS : 241.53.5.7
+
+Enter the number of subnets : 16
+Subnet Mask and Subnetworking are not possible in Class D and Class E network address

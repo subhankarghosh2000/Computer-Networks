@@ -1,0 +1,18 @@
+Class B
+Subnet 1 ID : 130.43.0.0
+Subnet 2 ID : 130.43.16.0
+Subnet 3 ID : 130.43.32.0
+Subnet 4 ID : 130.43.48.0
+Subnet 5 ID : 130.43.64.0
+Subnet 6 ID : 130.43.80.0
+Subnet 7 ID : 130.43.96.0
+Subnet 8 ID : 130.43.112.0
+Subnet 9 ID : 130.43.128.0
+Subnet 10 ID : 130.43.144.0
+Subnet 11 ID : 130.43.160.0
+Subnet 12 ID : 130.43.176.0
+Subnet 13 ID : 130.43.192.0
+Subnet 14 ID : 130.43.208.0
+Subnet 15 ID : 130.43.224.0
+Subnet 16 ID : 130.43.240.0
+Subnet Mask : 255.255.240.0

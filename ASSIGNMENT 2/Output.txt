@@ -1,0 +1,29 @@
+runfile('D:/computer networks/ASSIGNMENT 2/class_address.py', wdir='D:/computer networks/ASSIGNMENT 2')
+
+1.4.5.5
+Given IP belongs to Class A
+Network Address : 1
+
+runfile('D:/computer networks/ASSIGNMENT 2/class_address.py', wdir='D:/computer networks/ASSIGNMENT 2')
+
+130.45.151.154
+Given IP belongs to Class B
+Network Address : 130.45
+
+runfile('D:/computer networks/ASSIGNMENT 2/class_address.py', wdir='D:/computer networks/ASSIGNMENT 2')
+
+198.47.153.164
+Given IP belongs to Class C
+Network Address : 198.47.153
+
+runfile('D:/computer networks/ASSIGNMENT 2/class_address.py', wdir='D:/computer networks/ASSIGNMENT 2')
+
+225.57.163.148
+Given IP belongs to Class D
+In this Class, IP address is not divided into Network address
+
+runfile('D:/computer networks/ASSIGNMENT 2/class_address.py', wdir='D:/computer networks/ASSIGNMENT 2')
+
+255.57.173.174
+Given IP belongs to Class E
+In this Class, IP address is not divided into Network address
