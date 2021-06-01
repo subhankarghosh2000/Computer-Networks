@@ -4,19 +4,13 @@ import textwrap
 ip=input("Enter the IP ADDRESS : ")
 n_subnet=int(input("Enter the number of subnets : "))
 fixed_bits=int(math.ceil(math.log(n_subnet)/math.log(2)))
-
 ip_split=ip.split('.')
 ip_split_class=int(ip_split[0])
-
 bin_ip_split=[]
 for i in ip_split:
-    bin_ip_split.append(format(int(i),'08b'))
-    
+    bin_ip_split.append(format(int(i),'08b'))   
 bin_ip=''.join(bin_ip_split)
-
 combinations=list(map(list, itertools.product([0, 1], repeat=fixed_bits)))
-
-
 
 def Nclass(a,bin_ip,fixed_bits,combinations,out,b):
     lhs=bin_ip[:a]
@@ -32,8 +26,7 @@ def Nclass(a,bin_ip,fixed_bits,combinations,out,b):
             val_ip_split.append(int(j,2))
         val_ip='.'.join(map(str,val_ip_split))
         out.write(f'Subnet {i} ID : {val_ip}\n')
-        
-        
+               
 def subnet_mask(a,fixed_bits,out,b):
     s_lhs='1'*a
     fixed='1'*fixed_bits
@@ -47,8 +40,7 @@ def subnet_mask(a,fixed_bits,out,b):
         mask_ip_split.append(int(i,2))
     mask_ip='.'.join(map(str,mask_ip_split))
     out.write(f'Subnet Mask : {mask_ip}\n')
-        
-    
+           
 out=open("Output4.txt",'w')  
 
 if ip_split_class>=1 and ip_split_class<=126:

@@ -1,0 +1,43 @@
+runfile('D:/computer networks/ASSIGNMENT 2(b)/classless.py', wdir='D:/computer networks/ASSIGNMENT 2(b)')
+
+Enter the IP address : 200.10.20.40/28
+
+Enter 1 to display the first IP Address in the block
+Enter 2 to display the last IP Address in the block
+Enter 3 to display the total number of address in the block
+CHOICE : 1
+Network ID : 200.10.20.32/28
+
+Enter 1 to display the first IP Address in the block
+Enter 2 to display the last IP Address in the block
+Enter 3 to display the total number of address in the block
+CHOICE : 2
+Direct Broadcast ID : 200.10.20.47/28
+
+Enter 1 to display the first IP Address in the block
+Enter 2 to display the last IP Address in the block
+Enter 3 to display the total number of address in the block
+CHOICE : 3
+Number of IP Addresses : 16
+
+runfile('D:/computer networks/ASSIGNMENT 2(b)/classless.py', wdir='D:/computer networks/ASSIGNMENT 2(b)')
+
+Enter the IP address : 125.21.19.55/23
+
+Enter 1 to display the first IP Address in the block
+Enter 2 to display the last IP Address in the block
+Enter 3 to display the total number of address in the block
+CHOICE : 1
+Network ID : 125.21.18.0/23
+
+Enter 1 to display the first IP Address in the block
+Enter 2 to display the last IP Address in the block
+Enter 3 to display the total number of address in the block
+CHOICE : 2
+Direct Broadcast ID : 125.21.19.255/23
+
+Enter 1 to display the first IP Address in the block
+Enter 2 to display the last IP Address in the block
+Enter 3 to display the total number of address in the block
+CHOICE : 3
+Number of IP Addresses : 512
