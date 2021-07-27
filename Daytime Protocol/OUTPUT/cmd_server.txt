@@ -1,0 +1,4 @@
+D:\computer networks\Daytime Protocol>javac daytimeServer.java
+
+D:\computer networks\Daytime Protocol>java daytimeServer
+java.net.SocketException: Socket is closed

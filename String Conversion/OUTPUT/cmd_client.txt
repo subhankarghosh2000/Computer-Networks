@@ -1,0 +1,6 @@
+D:\computer networks\String Conversion>javac TCPClient.java
+
+D:\computer networks\String Conversion>java TCPClient
+Enter the sentence:
+my name is cristiano ronaldo
+From server: MY NAME IS CRISTIANO RONALDO

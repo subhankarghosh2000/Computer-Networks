@@ -1,0 +1,3 @@
+D:\computer networks\String Conversion>javac TCPServer.java
+
+D:\computer networks\String Conversion>java TCPServer

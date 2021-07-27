@@ -1,0 +1,4 @@
+
+D:\computer networks\Echo Service>javac TCPEchoServer.java
+
+D:\computer networks\Echo Service>java TCPEchoServer 30

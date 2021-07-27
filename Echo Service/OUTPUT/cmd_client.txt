@@ -1,0 +1,9 @@
+D:\computer networks\Echo Service>javac TCPEchoClient.java
+
+D:\computer networks\Echo Service>java TCPEchoClient localhost Hello 30
+Connected to server...sending echo string
+Received :Hello
+
+D:\computer networks\Echo Service>java TCPEchoClient localhost How_are_you 30
+Connected to server...sending echo string
+Received :How_are_you

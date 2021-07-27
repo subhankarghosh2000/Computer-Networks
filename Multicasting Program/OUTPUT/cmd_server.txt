@@ -1,0 +1,3 @@
+D:\computer networks\Multicasting Program>javac MulticastDateServer.java
+
+D:\computer networks\Multicasting Program>java MulticastDateServer
